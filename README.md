@@ -5,7 +5,7 @@
 
 ## Overview
 
-Welcome to this repository, dedicated to identifying and highlighting instances where the `dualhook` library is used inappropriately. Our goal is to help users spot potential misuse of `dualhook` in various projects.
+Welcome to this repository, dedicated to identifying and highlighting instances where the `dualhook` are used.
 
 ### Key Information Displayed
 
